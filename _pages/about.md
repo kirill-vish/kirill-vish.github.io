@@ -1,0 +1,22 @@
+---
+layout: about
+title: about
+permalink: /
+subtitle: Research Associate - AI in Genomics @<a href='https://m42.ae/'>M42</a>.
+
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
+  more_info: >
+
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
+---
+
+Welcome to my personal website!👋 My name is Kirill, and I am currently a Research Associate for AI in Genomics at <a href='https://m42.ae/'>M42</a>, a global tech-enabled healthcare company. I obtained MSc in Computer Vision at <a href='https://mbzuai.ac.ae/'>MBZUAI</a>, where I worked in the <a href='https://mbzuai.ac.ae/research/research-center/ciai/'>Center of Integrative Intelligence</a> (CIAI) with <a href='https://zhiqiangshen.com'>Dr. Zhiqiang Shen</a> and <a href='https://mbzuai.ac.ae/study/faculty/professor-eric-xing/'>Prof. Eric Xing</a>. During my time at MBZUAI I was also fortunate to work with <a href='https://liuzhuang13.github.io/'>Zhuang Liu</a> from Meta AI Research. My research interests primarily focus on deep learning, computer vision and AI in genomics. Before joining MBZUAI, I earned my Bachelor's degree in Computer Science from <a href='https://english.spbstu.ru/'>St.Petersburg Polytechnic University</a> and worked at <a href='https://soteranalytics.com/'>Soter Analytics</a> as Machine Learning Engineer where I helped to develop ergonomic solutions and wearable devices. 
+
+Aside from my academic pursuits, I sometimes participate in different machine competitions and achieved rank of a Kaggle Competition Master. 
+
