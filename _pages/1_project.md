@@ -201,7 +201,7 @@ Transformation invariance refers to a model's ability to produce consistent repr
 
 <h5 style="font-weight: bold;">Conclusions</h5>
 <p>
-  We found that each model can have its own distinct strengths. This suggests that model selection should depend on the target use cases, as standard performance metrics may overlook key task-specific nuances.
+  We found that each model can have its own distinct strengths. This suggests that model selection should depend on the target use cases, as standard performance metrics may overlook key task-specific nuances. In addition, many existing benchmarks are derived from ImageNet which biases the evaluation. Developing new benchmarks with different data distributions will be crucial for evaluating models in a more real-world representative context.
 </p>
 <p>
   <strong>ConvNet vs Transformer</strong><br>
@@ -218,7 +218,7 @@ Transformation invariance refers to a model's ability to produce consistent repr
 </p>
 <ol>
   <li> Despite CLIP models being better at transferability, supervised ConvNeXt shows a competitive performance on this task. This showcases the potential of supervised models. </li>
-  <li> Supervised models are better at robustness benchmarks, likely because these are ImageNet variants. This calls for the development of new evaluations with more diverse data distributions. </li>
+  <li> Supervised models are better at robustness benchmarks, likely because these are ImageNet variants. </li>
   <li> CLIP models have a higher shape bias and make fewer classification mistakes relative to their ImageNet accuracy.</li>
 </ol>
 
