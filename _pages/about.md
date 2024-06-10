@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Associate - AI in Genomics @G42 Healthcare.
+subtitle: Research Engineer - AI in Genomics at M42
 
 profile:
   align: right
@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My name is Kirill, and I am currently a Research Associate for AI at G42 Healthcare, a global tech-enabled healthcare company. I obtained MSc in Computer Vision at MBZUAI, where I worked in the <a href='https://mbzuai.ac.ae/research/research-center/ciai/'>Center of Integrative Intelligence</a> (CIAI) with <a href='https://zhiqiangshen.com'>Dr. Zhiqiang Shen</a> and <a href='https://mbzuai.ac.ae/study/faculty/professor-eric-xing/'>Prof. Eric Xing</a>. During my time at MBZUAI I was also fortunate to work with <a href='https://liuzhuang13.github.io/'>Dr. Zhuang Liu</a> from Meta AI Research. My research interests primarily focus on deep learning, computer vision and foundation models. Before joining MBZUAI, I earned my Bachelor's degree in Computer Science from St.Petersburg Polytechnic University and worked at Soter Analytics as Data Scientist where I helped to develop ergonomic solutions and wearable devices. 
+My name is Kirill, and I am currently a Research Engineer for AI in Genomics at M42<a href="https://m42.ae/">, a global tech-enabled healthcare company. At M42 my main focus is on developing genomic foundation models. I obtained MSc in Computer Vision at MBZUAI, where I worked in the <a href='https://mbzuai.ac.ae/research/research-center/ciai/'>Center of Integrative Intelligence</a> (CIAI) with <a href='https://zhiqiangshen.com'>Dr. Zhiqiang Shen</a> and <a href='https://mbzuai.ac.ae/study/faculty/professor-eric-xing/'>Prof. Eric Xing</a>. During my time at MBZUAI I was also fortunate to work with <a href='https://liuzhuang13.github.io/'>Dr. Zhuang Liu</a> from Meta AI Research. 
 
 Aside from my academic pursuits, I sometimes participate in different machine competitions and achieved rank of a Kaggle Competition Master. 
 
