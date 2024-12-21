@@ -190,6 +190,9 @@
           {%- if entry.twitter %}
             <a href="{{ entry.twitter }}" class="btn btn-sm z-depth-0" role="button">Twitter</a>
           {%- endif %}
+          {%- if entry.biorxiv %}
+            <a href="{{ entry.biorxiv }}" class="btn btn-sm z-depth-0" role="button">bioRxiv</a>
+          {%- endif %}
           </div>
           {% if site.enable_publication_badges %}
           {% assign entry_has_altmetric_badge = entry.altmetric or entry.doi or  entry.eprint or entry.pmid or entry.isbn %}
